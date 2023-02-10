@@ -5,7 +5,7 @@ import cors from 'cors'
 // ENV
 import * as dotenv from 'dotenv'
 // Routes
-import HomeRoutes from './src/routes/home.routes'
+import HomeRoutes from './routes/home.routes'
 // Helmet
 import helmet from 'helmet'
 // Instance

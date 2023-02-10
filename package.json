@@ -4,8 +4,8 @@
   "description": "A simple express boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "tsx index.ts",
-    "start:dev": "tsx watch index.ts",
+    "start": "tsx src/index.ts",
+    "start:dev": "tsx watch src/index.ts",
     "build": "tsup src",
     "test": "vitest",
     "lint": "eslint --ignore-path .eslintignore --ext .js,.ts ."
