@@ -1,4 +1,4 @@
-// @flow
+// Express
 import { Router } from 'express'
 // Controllers
 import HomeController from '../controllers/home.controller'

@@ -1,4 +1,4 @@
-// @flow
+// Express
 import { Request, Response } from 'express'
 
 class HomeController {
